@@ -20,5 +20,7 @@ D	E
 In this instance, the program will create the file answers.txt
 with the path A->E->D->C->B->A
 
-To the program comes bundled with a makefile and a file structure,
+Just compile the program to run it.
+
+The program comes bundled with a makefile and a file structure,
 but this can be changed to whatever suits your implementation.
