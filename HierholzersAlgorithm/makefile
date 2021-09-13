@@ -2,14 +2,14 @@ ifeq ($(OS), Windows_NT)
 	INCLUDES := Includes\\
 	BUILD := Build\\
 	BIN := Bin\\
-	EXECUTABLE := $(BIN)AlgProjekt.exe
+	EXECUTABLE := $(BIN)Hierholzers.exe
 	SOURCE := Source\\
 	DELETE := del
 else
 	INCLUDES := Includes/
 	BUILD := Build/
 	BIN := Bin/
-	EXECUTABLE := $(BIN)AlgProjekt
+	EXECUTABLE := $(BIN)Hierholzers
 	SOURCE := Source/
 	DELETE := rm
 endif
